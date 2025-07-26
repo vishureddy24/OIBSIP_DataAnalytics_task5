@@ -26,28 +26,25 @@ To develop simple Natural Language Processing (NLP) tools for text input assista
 
 Dictionary-based :
 
-typo           predicted       actual       feedback
-
------------------------------------------------------
-sloger         slogger         slogger      satisfied
 
 
-liina          lina            lina         satisfied
+| Typo     | Predicted | Actual  | Feedback   |
+|----------|-----------|---------|------------|
+| sloger   | slogger   | slogger | satisfied  |
+| liina    | lina      | lina    | satisfied  |
+| curaate  | curate    | curate  | satisfied  |
 
-curaate        curate          curate       satisfied
 
 
 
 
 Probabilistic-Based :
 
-typo           predicted       actual       feedback
 
+| Typo   | Predicted | Actual   | Feedback       |
+|--------|-----------|----------|----------------|
+| liina  | liina     | lina     | not satisfied  |
+| sloger | sloger    | slogger  | not satisfied  |
 
------------------------------------------------------
-
-liina          liina           lina         not satisfied
-
-sloger         sloger          slogger      not satisfied
 
 
