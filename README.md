@@ -28,13 +28,14 @@ Dictionary-based :
 
 typo           predicted       actual       feedback
 
-
-
+-----------------------------------------------------
 sloger         slogger         slogger      satisfied
+
 
 liina          lina            lina         satisfied
 
 curaate        curate          curate       satisfied
+
 
 
 
@@ -43,6 +44,10 @@ Probabilistic-Based :
 typo           predicted       actual       feedback
 
 
+-----------------------------------------------------
+
 liina          liina           lina         not satisfied
 
 sloger         sloger          slogger      not satisfied
+
+
